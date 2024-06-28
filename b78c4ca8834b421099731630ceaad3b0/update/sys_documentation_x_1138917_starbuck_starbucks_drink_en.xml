@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="drink" label="Drink" language="en" table="x_1138917_starbuck_starbucks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>drink</element>
+            <help/>
+            <hint/>
+            <label>Drink</label>
+            <language>en</language>
+            <name>x_1138917_starbuck_starbucks</name>
+            <plural>Drinks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-24 09:09:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Drink</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1138917_starbuck">b78c4ca8834b421099731630ceaad3b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">b78c4ca8834b421099731630ceaad3b0</sys_scope>
+            <sys_update_name>sys_documentation_x_1138917_starbuck_starbucks_drink_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-24 09:09:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

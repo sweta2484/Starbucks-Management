@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="x_1138917_starbuck_m2m_Starbucks_Starbucks drinks" language="en" table="x_1138917_starbuck_m2m_x_1138917_st_x_1138917_st">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>x_1138917_starbuck_m2m_Starbucks_Starbucks drinks</label>
+            <language>en</language>
+            <name>x_1138917_starbuck_m2m_x_1138917_st_x_1138917_st</name>
+            <plural>x_1138917_starbuck_m2m_Starbucks_Starbucks drinks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 06:02:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1138917_starbuck_m2m_Starbucks_Starbucks drinks</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1138917_starbuck">b78c4ca8834b421099731630ceaad3b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">b78c4ca8834b421099731630ceaad3b0</sys_scope>
+            <sys_update_name>sys_documentation_x_1138917_starbuck_m2m_x_1138917_st_x_1138917_st__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 06:02:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

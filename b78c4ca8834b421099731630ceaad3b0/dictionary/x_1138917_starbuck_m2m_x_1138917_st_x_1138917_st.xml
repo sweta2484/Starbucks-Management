@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90574b70834b021099731630ceaad36a" label="x_1138917_starbuck_m2m_Starbucks_Starbucks drinks" max_length="40" name="x_1138917_starbuck_m2m_x_1138917_st_x_1138917_st" type="collection">
+        <element attributes="encode_utf8=false" label="Starbucks" max_length="32" name="x_1138917_starbuck_starbucks" reference="x_1138917_starbuck_starbucks" type="reference"/>
+        <element attributes="encode_utf8=false" label="Starbucks drinks" max_length="32" name="x_1138917_starbuck_starbucks_drink" reference="x_1138917_starbuck_starbucks_drink" type="reference"/>
+        <index name="index">
+            <element name="x_1138917_starbuck_starbucks"/>
+        </index>
+    </element>
+</database>
